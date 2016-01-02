@@ -1,0 +1,28 @@
+{
+  "name": "postmail.io",
+  "version": "2.0.0",
+  "description": "simple application for sending info requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moguelator/postmail.io.git"
+  },
+  "keywords": [
+    "AWS",
+    "SMS",
+    "Technogi"
+  ],
+  "author": "carlos@technogi.com.mx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moguelator/postmail.io/issues"
+  },
+  "homepage": "https://github.com/moguelator/postmail.io#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
